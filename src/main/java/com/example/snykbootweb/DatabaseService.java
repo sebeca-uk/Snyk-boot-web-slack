@@ -11,3 +11,11 @@ public class DatabaseService {
         return password;
     }
 }
+public class DatabaseService {
+    private String userName = "admin";
+    private String password = "shwhehe67whd!";
+
+    public String getPassword () {
+        return password;
+    }
+}
